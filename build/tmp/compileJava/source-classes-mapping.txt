@@ -1,2 +1,8 @@
+com/fardragi/vulcan/database/ConnectionFactory.java
+ com.fardragi.vulcan.database.ConnectionFactory
+com/fardragi/vulcan/models/Usuario.java
+ com.fardragi.vulcan.models.Usuario
+com/fardragi/vulcan/database/daos/UsuarioDao.java
+ com.fardragi.vulcan.database.daos.UsuarioDao
 com/fardragi/vulcan/Program.java
  com.fardragi.vulcan.Program
